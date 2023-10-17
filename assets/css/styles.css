@@ -568,6 +568,10 @@ img {
   color: var(--first-color);
 }
 
+.underline:hover{
+  text-decoration: underline;
+}
+
 .qualification__button{
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
