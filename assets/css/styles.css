@@ -968,11 +968,6 @@ img {
   .services__modal{
     padding: 0 .5rem;
   }
-
-  .map{
-    width: 300;
-    height: 150;
-  }
 }
 
 /* For medium devices */
